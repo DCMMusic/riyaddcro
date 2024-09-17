@@ -828,15 +828,15 @@ func startNewGameHandler(m *tb.Message) {
 
 		menu.Inline(
 
-			menu.Row(r.URL("🤖 Botu qrupuna əlavə et", "https://t.me/QafqazCrobot?startgroup=a")),
+			menu.Row(r.URL("🤖 Botu qrupuna əlavə et", "https://t.me/RichCroAzBot?startgroup=a")),
 
-			menu.Row(r.URL("🇦🇿 Əsas Oyun qrupumuz", "https://t.me/KarabakhTeamm")),
+			menu.Row(r.URL("🇦🇿 Əsas Oyun qrupumuz", "https://t.me/RichSuppp")),
 
-			menu.Row(r.URL("💎 Premium Oyun qrupumuz", "https://t.me/azeqafqaz2021")),
+			menu.Row(r.URL("💎 Premium Oyun qrupumuz", "https://t.me/RichSuppp")),
 
-			menu.Row(r.URL("👮🏻‍♂️🐊 Mafia/Crocodile Qrupumuz", "https://t.me/karabakhteamm")),
+			menu.Row(r.URL("👮🏻‍♂️🐊 Mafia/Crocodile Qrupumuz", "https://t.me/RichSuppp")),
 
-			menu.Row(r.URL("📣 Rəsmi Kanalımız", "https://t.me/RiyaddBlog")),
+			menu.Row(r.URL("📣 Rəsmi Kanalımız", "https://t.me/RichResmi")),
 
 			menu.Row(r.URL("🖥 Rəsmi Saytımız", "http://crocodilegame.space")),
 
@@ -1202,29 +1202,29 @@ func helpHandler(m *tb.Message) {
 
 <b>✅Qruplar/Grublar/Groups/Группы:
 
-🇦🇿 - @karabakhteamm
+🇦🇿 - @RichSuppp
 
-💎 - @karabakhteamm
+💎 - @RichSuppp
 
-🇺🇸 - @riyaddblog
+🇺🇸 - @RichResmi
 
-🇹🇷 - @Riyaddblog
+🇹🇷 - @RichResmi
 
-🇷🇺 - @RiyaddBlog
+🇷🇺 - @RichResmi
 
-🙋🏻‍♂️ - @Thagiyevvvv
+🙋🏻‍♂️ - @Axhmedov
 
-🔞 - https://t.me/karabakhteamm
+🔞 - https://t.me/RichSupp
 
-🙎🏻‍♀️ - https://t.me/karabakhteamm
+🙎🏻‍♀️ - https://t.me/RichSuppp
 
-🇦🇿 Botu öz qrupuna əlavə et: https://t.me/qafqazcrobot?startgroup=a
+🇦🇿 Botu öz qrupuna əlavə et: https://t.me/RichCroAzBot?startgroup=a
 
-🇺🇸 Add bot to chat: https://t.me/qafqazcrobot?startgroup=a
+🇺🇸 Add bot to chat: https://t.me/RichCroAzBot?startgroup=a
 
-🇹🇷 Botu grubuna ekle: https://t.me/qafqazcrobot?startgroup=a
+🇹🇷 Botu grubuna ekle: https://t.me/RichCroAzbot?startgroup=a
 
-🇷🇺 Добавить бота в группу: https://t.me/qafqazcrobot?startgroup=a</b>
+🇷🇺 Добавить бота в группу: https://t.me/RichCroAzBot?startgroup=a</b>
 
 `)
 
